@@ -29,4 +29,8 @@ workflows:
       - build
       - deploy:
           requires:
+<<<<<<< HEAD
             - build
+=======
+            - build
+>>>>>>> origin
